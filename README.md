@@ -17,10 +17,9 @@ Developing and enhancing an enterprise accounting and inventory management syste
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=ef&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-0A84FF?style=for-the-badge&logo=web&logoColor=white)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-
-
 
 ![XML](https://img.shields.io/badge/XML-006699?style=for-the-badge&logo=xml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
