@@ -32,3 +32,8 @@ Developing and enhancing an enterprise accounting and inventory management syste
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+
+## 🏅 Certifications
+- **C#.NET For Beginners** (Udemy)
+
+
