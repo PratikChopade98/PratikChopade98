@@ -1,5 +1,15 @@
 # 💫 About Me:
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=800&height=60&lines=Hey+there!+I'm+Pratik+;Software+Developer;Specialized+in+.NET)
+
+
+
+![Software Developer GIF](https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966)
+
 Developing and enhancing an enterprise accounting and inventory management system (GAINS) using C#.NET, ASP.NET, JavaScript, and SQL Server at Windfall Consultancy Pvt Ltd.<br>.NET-based enterprise applications, system modernization projects, and full-stack web development<br>Expanding my knowledge in advanced SQL Server concepts and scalable database design.<br>Modern JavaScript practices, database optimization techniques, and best practices in clean coding and software architecture.<br>C#, ASP.NET development, enterprise application workflows, debugging, and maintaining legacy systems.<br>Despite being detail-oriented with code.
+
+
+
 
 
 ## 🌐 Socials:
